@@ -1,4 +1,6 @@
-"""This is a grocery list calculator"""
+"""This is a grocery list calculator
+
+The purpose of this is to help track and calculate cost of inventory"""
 
 shopping_list = ["banana", "orange", "apple"]
 
