@@ -1,3 +1,5 @@
+"""This is a grocery list calculator"""
+
 shopping_list = ["banana", "orange", "apple"]
 
 stock = {
